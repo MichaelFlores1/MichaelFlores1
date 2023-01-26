@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://www.canva.com/design/DAFYzmGnBRE/8lv8NciEHeG0m4dFU-PLJQ/view?utm_content=DAFYzmGnBRE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="100"/>
-</div>
+![Simple Work LinkedIn Banner](https://user-images.githubusercontent.com/123521618/214964997-23c7801c-04f7-4105-a8e4-6620b5379d15.png)
+
 
 ### Hi there 👋
 
